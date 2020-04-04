@@ -1,0 +1,81 @@
+img01.jpg
+1.특정 작업을 수행하기 위한 명령문의 집합
+2.속성을 표현
+3.생성된 객체의 필드를 초기화
+img02.jpg
+1. implements
+2. public
+3. extends
+img03.jpg
+1. 0, 0
+2. 1, 1
+3. 1, 2
+img04.jpg
+1. null
+2. cat.name
+3. cat
+img05.jpg
+1. 클래스
+2. 필드
+3. 생성자
+img06.jpg
+1. 클래스 
+2. 생성자
+3. 메소드
+4.필드
+img07.jpg
+1. 절차지향프로그래밍
+2. 프라모델링
+3. 객체지향프로그래밍
+img08.jpg
+1. 변수
+2. 타입
+3. 연산자
+img09.jpg
+1. 클래스변수
+2. 인스턴스변수
+3. 지역변수
+img10.jpg
+1. 6hour
+2.class
+3.modeName
+img11.jpg
+1. extends
+2. implements
+3. 키워드 사용하지 않아도 된다.
+img12.jpg
+1. 클래스
+2. 추상 클래스
+3. 익명 클래스
+img13.jpg
+1. 클래스
+2. 상속 클래스
+3. 추상 클래스
+img14.jpg
+1. 상속 클래스
+2. 추상 클래스
+3. 익명 클래스
+img15.jpg
+1. 메소드
+2. 변수
+3. 인터페이스
+img16.jpg
+1. 메소드 오버로딩(Method overloading)
+2. 메소드 오버라이딩(Method Overriding)
+3. 패키지(Package)
+img17.jpg
+1. 구현 코드
+2. 메소드 이름
+3. 접근 제어자
+img18.jpg
+1. 5    
+2. 10      
+3. complie error
+img19.jpg
+1. 아무것도 안나옴
+2. body, happy
+3. boby, happy
+img20.jpg
+1. 1번
+2. 2번
+3. 3번

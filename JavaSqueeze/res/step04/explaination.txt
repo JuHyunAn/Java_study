@@ -1,0 +1,20 @@
+메소드(method)란 어떠한 특정 작업을 수행하기 위한 명령문의 집합이라 할 수 있다.
+상속 : http://tcpschool.com/java/java_inheritance_concept
+ https://wikidocs.net/281
+객체 변수로 name 을 선언했지만 아무런 값도 대입을 하지 않았기 때문에 null 이라는 값이 출력된 것이다.
+생성자 : http://tcpschool.com/java/java_methodConstructor_constructor
+생성자 : http://tcpschool.com/java/java_methodConstructor_constructor
+선언된 해당 클래스 타입의 객체를 인스턴스(instance)라고 한다. 즉, 인스턴스란 메모리에 할당된 객체를 의미한다.
+변수 : http://tcpschool.com/java/java_datatype_variable
+메소드나 생성자, 초기화 블록 내에 위치한 변수를 지역 변수(local variable)라고 한다.
+변수 : http://tcpschool.com/java/java_datatype_variable
+인터페이스 : http://tcpschool.com/java/java_polymorphism_interface
+추상클래스 : http://tcpschool.com/java/java_polymorphism_abstract
+추상클래스 : http://tcpschool.com/java/java_polymorphism_abstract
+상속 : http://tcpschool.com/java/java_inheritance_concept
+자바에서 인터페이스는 다음과 같은 문법을 통해 구현합니다. class 클래스이름 implements 인터페이스이름 { ... }
+메소드 오버로딩(overloading)이란 같은 이름의 메소드를 중복하여 정의하는 것을 의미합니다.
+인터페이스 : http://tcpschool.com/java/java_polymorphism_interface
+클래스의구성 : http://tcpschool.com/java/java_class_component
+클래스 : https://wikidocs.net/214
+new 는 객체를 생성할 때 사용하는 키워드이다. 이렇게 하면 Animal 클래스의 인스턴스(instance)인 cat, 즉 Animal의 객체가 만들어진다.

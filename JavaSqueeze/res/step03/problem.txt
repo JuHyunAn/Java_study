@@ -1,0 +1,80 @@
+img01.PNG
+1. 70
+2. 80
+3. 90
+img02.PNG
+1. 50
+2. 150
+3. 10
+img03.PNG
+1. 3
+2. 1
+3. 2
+img04.PNG
+1. 배열 길이가 없다.
+2. 문자열은 배열이 될 수 없다.
+3. 배열 길이가 초과되었다.
+img05.PNG
+1. 30
+2. 20
+3. 60
+img06.PNG
+1. a + b
+2. a * b
+3. a / b
+img07.PNG
+1. public < private
+2. default > private
+3. default > protected  
+img08.PNG
+1. this
+2. public
+3. private
+img09.PNG
+1. void
+2. int
+3. char 
+img10.PNG
+1. 오버로딩
+2. 오버라이드
+3. 메소드선언
+img11.PNG
+1. 화
+2. 수
+3. 목
+img12.PNG
+1. ArrayIndexOutOfBoundsException
+2. NullPointException
+3. 에러가 없다.
+img13.PNG
+1. private
+2. public
+3. void
+img14.PNG
+1. private
+2. public
+3. void
+img15.PNG
+1. private
+2. public
+3. import
+img16.PNG
+1. H
+2. e
+3. l
+img17.PNG
+1. str[3]
+2. str[2]
+3. str[1]
+img18.PNG
+1. [0][3]
+2. [1][2]
+3. [3][1]
+img19.PNG
+1. int[]i=new int[3];
+2. int[]q; q={3,4,23,2};
+3. int[]w; w=new int[3];
+img20.PNG
+1. 3
+2. 2
+3. 1

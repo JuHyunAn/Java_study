@@ -1,0 +1,20 @@
+%는 나머지 값을 반환하는 연산자다
+http://tcpschool.com/java/java_datatype_variable
+자료형을  뒤에 공백을 두고 변수 이름을 적는다
+후위증감연산자 : 값이 참조된 후에 증가
+나눗셈을 할 때 피연산자 하나의 타입을 double형으로 캐스팅하면 double형이 반환된다
+%는 나머지 값을 반환하는 연산자이다.
+https://wikidocs.net/220
+전위증감연산자 : 값이 참조되기 전에 증가 / 후위증감연산자 : 값이 참조된 후에 증가
+큰따옴표(")로 감싼 문자들을 문자열이라 부르며 String 클래스를 사용한다
+실수는 double형이 기본이기 때문에 float a = 3.14f; 로 표기해야 한다
+http://tcpschool.com/java/java_datatype_variable
+2는 정수이므로 int, f가 붙으면 float형, 홑따옴표는 char형
+http://tcpschool.com/java/java_operator_assignment
+쌍따옴표("")를 붙이면 문자열이 되고 문자열만 출력한다
+http://tcpschool.com/java/java_datatype_variable
+자료형이 double이므로 10.0이 출력된다 
+sum = sum + 10
+후위증감연산자 : 값이 참조된 후에 증가
+문자를 int형으로 받으면 유니코드값이 출력되고 char형에 저장하면 문자가 출력된다
+후위증감연산자 : 값이 참조된 후에 증가

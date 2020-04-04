@@ -1,0 +1,80 @@
+img01.PNG
+1. 3
+2. 1
+3. 13
+img02.PNG
+1. 메소드 안에서 선언된다.
+2. 객체를 생성할 때 힙 메모리에 저장된다.
+3. 메소드가 끝날 때 제거된다.
+img03.PNG
+1. 인스턴스 변수
+2. 지역 변수
+3. 매개 변수
+img04.PNG
+1. 코드 영역
+2. 힙 영역
+3. 스택 영역
+img05.PNG
+1. 구문오류
+2. 논리오류
+3. 예외오류
+img06.PNG
+1. 자바
+2. $MAX_NUM
+3. new
+img07.PNG
+1. 정수타입
+2. 실수타입
+3. Boolean 타입
+img08.PNG
+1. 29
+2. 30
+3. 31
+img09.PNG
+1. ㄱ
+2. ㄴ
+3. ㄷ
+img10.PNG
+1. 참조
+2. 정답없음
+3. 메소드
+img11.PNG
+1. 모두 거짓
+2. ㉠, ㉡, ㉣, ㉤, ㉥
+3. ㉠, ㉣, ㉤, ㉥
+img12.PNG
+1. int, double, string 
+2. int, float, char
+3. int, double, char
+img13.PNG
+1. 구문오류
+2. 논리오류
+3. 예외오류
+img14.PNG
+1. 아무것도 안 나온다.
+2. 출력 결과 예상
+3. 결과가 어떻게 나올까?
+img15.PNG
+1. int a ;
+2. double b;
+3. int c = 0;
+img16.PNG
+1. Class Animal { }
+2. int
+3. double
+img17.PNG
+1. 0
+2. 10
+3. 출력결과 없음
+img18.PNG
+1. 0
+2. sum
+3. 1
+img19.PNG
+1. 0
+2. sum
+3. 1
+img20.PNG
+1. int
+2. double
+3. boolean

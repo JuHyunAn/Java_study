@@ -1,0 +1,80 @@
+img01.PNG
+1. public
+2. private
+3. default
+img02.PNG
+1. 내부 패키지의 모든 클래스
+2. 외부 패키지의 모든 클래스
+3. 제어자가 포함된 클래스를 상속 받는 외부 패키지의 클래스
+img03.PNG
+1. private
+2. public
+3. default
+img04.PNG
+1. private
+2. protected
+3. public
+img05.PNG
+1. 모든 메소드는 리턴 값을 가진다.
+2. void형은 리턴 값으로 정수를 받는다.
+3. 입력 값이 없는 메소드도 있다.
+img06.PNG
+1. a + b
+2. a * b
+3. a / b
+img07.PNG
+1. System.out.print도 return값이 된다.
+2. 입력 없이 출력만 있는 메소드는 없다.
+3. 입력과 출력이 모두 없는 메소드는 객체.메소드명()으로 사용된다.
+img08.PNG
+1. return은 메소드의 결과 값을 돌려주는 명령어이다.
+2. 자바에서 함수와 메소드는 같은 의미이다.
+3. 메소드는 클래스 밖에 존재할 수 있다.
+img09.PNG
+1. 정수타입 : 0
+2. 실수타입 0.0F 또는 0.0
+3. boolean: true
+img10.PNG
+1. 모두 정답
+2. ㉠, ㉢, ㉣
+3. ㉠, ㉡, ㉢
+img11.PNG
+1. 화
+2. 수
+3. 목
+img12.PNG
+1. ArrayIndexOutOfBoundsException
+2. NullPointException
+3. 에러가 없다.
+img13.PNG
+1. private
+2. public
+3. void
+img14.PNG
+1. private
+2. public
+3. void
+img15.PNG
+1. private
+2. public
+3. import
+img16.PNG
+1. private
+2. public
+3. protected
+img17.PNG
+1. str[3]
+2. str[2]
+3. str[1]
+img18.PNG
+1. num.wait
+2. num.lenght  
+3. num.clone
+img19.PNG
+1. break   
+2. continue  
+3. System.exit()  
+img20.PNG
+1. 3
+2. 2
+3. 1
